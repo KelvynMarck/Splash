@@ -1,0 +1,16 @@
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\Splash.exe.config
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\Splash.exe
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\Splash.pdb
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\CircularProgressBar.dll
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\WinFormAnimation.dll
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\CircularProgressBar.xml
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\bin\Debug\WinFormAnimation.xml
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.csproj.AssemblyReference.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.csproj.SuggestedBindingRedirects.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.Form1.resources
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.Properties.Resources.resources
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.csproj.GenerateResource.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.csproj.CoreCompileInputs.cache
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.csproj.CopyComplete
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.exe
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.pdb
