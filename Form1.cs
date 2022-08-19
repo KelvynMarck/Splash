@@ -10,20 +10,20 @@ namespace Splash
     {
 
         //Creando el metodo
-       
-       [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
+
+        [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
 
 
         private static extern IntPtr CreateRoundReactRgn
 
-            (
-                int nLeftRect,
-                int nTopRect,
-                int RightReact,
-                int nBottomRect,
-                int nWidthEllipse,
-                int nHeightEllipse
-            );
+             (
+                 int nLeftRect,
+                 int nTopRect,
+                 int RightReact,
+                 int nBottomRect,
+                 int nWidthEllipse,
+                 int nHeightEllipse
+             );
 
         public Form1()
         {
