@@ -47,7 +47,7 @@
             this.ProgressBar1.InnerColor = System.Drawing.Color.FromArgb(((int)(((byte)(42)))), ((int)(((byte)(40)))), ((int)(((byte)(60)))));
             this.ProgressBar1.InnerMargin = 2;
             this.ProgressBar1.InnerWidth = -1;
-            this.ProgressBar1.Location = new System.Drawing.Point(51, 112);
+            this.ProgressBar1.Location = new System.Drawing.Point(46, 119);
             this.ProgressBar1.MarqueeAnimationSpeed = 2000;
             this.ProgressBar1.Name = "ProgressBar1";
             this.ProgressBar1.OuterColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(28)))), ((int)(((byte)(43)))));
@@ -56,7 +56,7 @@
             this.ProgressBar1.ProgressColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(213)))), ((int)(((byte)(219)))));
             this.ProgressBar1.ProgressWidth = 6;
             this.ProgressBar1.SecondaryFont = new System.Drawing.Font("Microsoft Sans Serif", 36F);
-            this.ProgressBar1.Size = new System.Drawing.Size(150, 150);
+            this.ProgressBar1.Size = new System.Drawing.Size(152, 150);
             this.ProgressBar1.StartAngle = 270;
             this.ProgressBar1.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
             this.ProgressBar1.SubscriptColor = System.Drawing.Color.FromArgb(((int)(((byte)(166)))), ((int)(((byte)(166)))), ((int)(((byte)(166)))));
@@ -74,7 +74,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(213)))), ((int)(((byte)(219)))));
-            this.label1.Location = new System.Drawing.Point(18, 47);
+            this.label1.Location = new System.Drawing.Point(22, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(219, 37);
             this.label1.TabIndex = 1;

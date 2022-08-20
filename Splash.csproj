@@ -58,6 +58,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="LoginMarck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginMarck.Designer.cs">
+      <DependentUpon>LoginMarck.cs</DependentUpon>
+    </Compile>
     <Compile Include="Marck.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +74,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginMarck.resx">
+      <DependentUpon>LoginMarck.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Marck.resx">
       <DependentUpon>Marck.cs</DependentUpon>

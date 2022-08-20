@@ -15,3 +15,4 @@ C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.cs
 C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.exe
 C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.pdb
 C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.Marck.resources
+C:\Users\KelvynMarck\Desktop\Proyecto de kelyn\Splash\Splash\obj\Debug\Splash.LoginMarck.resources

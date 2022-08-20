@@ -45,7 +45,7 @@ namespace Splash
             if (ProgressBar1.Value == 100)
             {
                 timer1.Enabled = false;
-                Marck marck_form = new Marck();
+                LoginMarck marck_form = new LoginMarck();
                 marck_form.Show();
                 this.Hide();
             }
