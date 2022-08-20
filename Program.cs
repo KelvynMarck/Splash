@@ -13,7 +13,7 @@ namespace Splash
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new LoginMarck());
+            Application.Run(new Marck());
         }
     }
 }
